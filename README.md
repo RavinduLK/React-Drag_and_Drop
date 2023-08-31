@@ -8,7 +8,7 @@ https://dms.uom.lk/s/2RsNWreoicGb6jL
 ![final user interface (2)](https://github.com/RavinduLK/React-Drag_and_Drop/blob/20212b161537cf428fef754f43c19b86567e4e32/Drag%20and%20Drop-Interfaces/Screenshot%202023-08-31%20142325.png)
 
 
-![final user interface (2)](https://github.com/RavinduLK/My_First_Project---MarioClub/blob/6d19b1df1307096f96124cbe963d356703c8cd47/Mario%20Club%20-%20Interfaces/Screenshot%202023-08-30%20112825.png)
+![final user interface (2)](https://github.com/RavinduLK/React-Drag_and_Drop/blob/1c8f16cabc8194b9fa70262f784082a3923610fb/Drag%20and%20Drop-Interfaces/Screenshot%202023-08-31%20142305.png)
 
 
 
