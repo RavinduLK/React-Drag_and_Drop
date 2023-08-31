@@ -16,5 +16,5 @@ https://dms.uom.lk/s/2RsNWreoicGb6jL
 
 # How to Run
 
-npm install
+npm install <br>
 npm start
