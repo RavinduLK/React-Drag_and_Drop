@@ -13,3 +13,8 @@ https://dms.uom.lk/s/2RsNWreoicGb6jL
 
 
 ![final user interface (3)](https://github.com/RavinduLK/React-Drag_and_Drop/blob/ca55f939b9c29188a7d9807e2629945b13fadfb8/Drag%20and%20Drop-Interfaces/Screenshot%202023-08-31%20142237.png)
+
+# How to Run
+
+npm install
+npm start
