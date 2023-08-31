@@ -5,7 +5,7 @@ This is a mini React application I designed to practice and learn how react-beau
 https://dms.uom.lk/s/2RsNWreoicGb6jL
 
 # Final User Interfaces
-![final user interface (1)](https://github.com/RavinduLK/My_First_Project---MarioClub/blob/cd263245db3b1a7261a0bdaa93319963b826bdcc/Mario%20Club%20-%20Interfaces/Screenshot%202023-08-30%20112806.png)
+https://github.com/RavinduLK/React-Drag_and_Drop/blob/20212b161537cf428fef754f43c19b86567e4e32/Drag%20and%20Drop-Interfaces/Screenshot%202023-08-31%20142325.png
 
 
 
